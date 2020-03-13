@@ -1,4 +1,2 @@
-import * as mime from 'mime-types';
-
-// Call the console.log function.
-console.log("Hello World");
+const _ = require("underscore");
+console.log(_.range(5));

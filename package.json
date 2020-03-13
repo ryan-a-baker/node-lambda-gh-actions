@@ -1,0 +1,23 @@
+{
+  "name": "lambda-gh-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "dependencies": {
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-a-baker/node-lambda-gh-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-a-baker/node-lambda-gh-actions/issues"
+  },
+  "homepage": "https://github.com/ryan-a-baker/node-lambda-gh-actions#readme"
+}
